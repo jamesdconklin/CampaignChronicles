@@ -56,6 +56,6 @@ This doesn't come into play until the start of Book 2, but for players already f
 Instead of using the normal mythic progression, we're using a rather restricted progression to put a cap on the power creep typical of using mythic rules. Use the standard rules as described [here](https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/) with the following changes:
 - You do not gain a new Path ability at each tier after the first. Instead, you may choose to replace your current Path ability with a new ability for which you qualify.
 - You do not gain a new Mythic Feat at each odd tier after the first. Instead, you may choose to replace your current Mythic Feat with a new one for which you qualify.
-- At each even tier, you gain a standard feat. If you have at least as many levels of a class with its own bonus feat feature as you do mythic tiers, this extra feat may be taken as if it were one of that class's bonus feats.
+- At each even tier, you gain a standard feat. If you have at least twice as many levels of a class with its own bonus feat feature (e.g. Ranger or Warpriest) as you do mythic tiers, this extra feat may be taken as if it were one of that class's bonus feats.
 - At each odd tier after the first, gain a number of extra skill ranks equal to your Hit Dice. As you continue to gain Hit Dice from leveling, so does this bonus increase.
 - At 10th tier, you choose one additional Mythic Feat and Path Ability, for a total of two each.
