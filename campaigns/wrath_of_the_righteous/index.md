@@ -1,8 +1,8 @@
 # Wrath of the Righteous 2020
-1. [Rules](./rules/index.md)
-2. [Party](./pcs/index.md)
-3. [Campaign Journal](./journals/index.md)
-4. [Codices](./codices/index.md)
+1. [Rules](./rules)
+2. [Party](./pcs)
+3. [Campaign Journal](./journals)
+4. [Codices](./codices)
 
 [Wrath of the Righteous](https://paizo.com/wrathOfTheRighteous) is still very much on my GMing bucket list. I don't know why, but the black-and-white good-and-evil structure of the campaign is strangely compelling to me. Comfortable, even, though maybe because I think the real potential in this sort of campaign is subverting that sort of comfort.
 
