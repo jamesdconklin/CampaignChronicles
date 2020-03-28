@@ -1,4 +1,8 @@
-# Wrath of the Righteous 2020 Interest Check
+# Wrath of the Righteous 2020
+1. [Rules](./rules/index.md)
+2. [Party](./pcs/index.md)
+3. [Campaign Journal](./journals/index.md)
+4. [Codices](./codices/index.md)
 
 [Wrath of the Righteous](https://paizo.com/wrathOfTheRighteous) is still very much on my GMing bucket list. I don't know why, but the black-and-white good-and-evil structure of the campaign is strangely compelling to me. Comfortable, even, though maybe because I think the real potential in this sort of campaign is subverting that sort of comfort.
 
@@ -27,9 +31,3 @@ Because of recent events, i.e. our new reality of social distancing, this is now
 When possible, maybe once or twice a month, I'd like to do synchronous remote sessions, probably on the weekend if I'm being honest, as a majority of the current participants work odd hours at the same company.
 
 Online play, whether run live over Roll20 with voice chat or asynchronously post-by-post, will require us to adopt certain conventions that will be laid out in a separate Play Rules document.
-
-## Build Rules
-
-## In-Play House Rules
-
-## PBP Etiquette
