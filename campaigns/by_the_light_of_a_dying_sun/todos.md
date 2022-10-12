@@ -42,7 +42,7 @@
       **Crewman**: [Intelligence], we're running low on r-mass. Our destination is a metastable wormhole at coordinates 39.012, 5.49, 1.37e7 klicks. Can you calculate a gravity-assisted approach that'll get us there within a month?  
       **Computer**: [Intelligence] is requesting access to astrographic sensor data and internal status sensors, scoped to fuel reserves. Estimates an upper bound of one minute to finish calculations.  
       **Crewman**: I grant it.  
-      **[Intelligence]**: By slingshotting around the fourth moon of the sixth planet, around the third planet, and around the first planet, this vessel can arrive at the destination in 27 Earth-standard days, 13 hours, 42 minutes. The necessary burns will consume half our remaining reaction mass, leaving roughly 14% of our total capacity.
+      **[Intelligence]**: By slingshotting around the fourth moon of the sixth planet, around the third planet, and around the first planet, this vessel can arrive at the destination in 27 Earth-standard days, 13 hours, 42 minutes. The necessary burns will consume half our remaining reaction mass, leaving roughly 14% of our total capacity.  
       **Crewman**: Thank you, [Intelligence]. Please start the necessary maneuvers. Computer, grant [Intelligence] access to flight controls until we get there, along with the necessary r-mass reserves.  
       **Computer**: Crewman, your access is sufficient for only a 5% r-mass expenditure and a flight control grant of five days.  
       **Crewman**: Let's start with that. We'll continue this conversation with the Captain before the day's out.
